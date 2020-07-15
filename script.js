@@ -114,4 +114,4 @@ clearBtn.addEventListener('click', () => {
     updateScreen(currentNumber);
 });
 
-
+/* by marta */
